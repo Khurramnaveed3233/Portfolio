@@ -17,12 +17,6 @@
 
 Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed3233?tab=repositories)
 
-| Project Title | Tools Used | Description |
-|---------------|------------|-------------|
-| Financial Sales Dashboard | Power BI | Sales & SKU analysis, regional insights, and profit tracking |
-| Netflix Content Analysis | SQL Server | Genre, country, and release trend exploration using SQL queries |
-| US Road Accident Analysis | Excel | Pivot dashboards analyzing patterns by weather, time & location |
-
 ---
 
 ### 📷 Dashboard Snapshots
