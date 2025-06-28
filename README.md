@@ -23,7 +23,9 @@ Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed323
 
 ![ff](https://github.com/user-attachments/assets/38666a66-ff45-41cb-a65d-90ff784fd47e)
 ![r](https://github.com/user-attachments/assets/99f6b5b2-d02e-4aff-9099-4a0a665cf73e)
-
+![Global terrorism](https://github.com/user-attachments/assets/59746cda-0907-4536-96c5-369982fd3b80)
+![x mart sales dashboard](https://github.com/user-attachments/assets/3a103243-201e-40ec-a6c6-398b34aa4a22)
+![I-POINT PHONE ACCESSORY SALES PERFORMANCE DASHBOARD](https://github.com/user-attachments/assets/ef3ea81b-2b11-4e24-a6e4-e397edf1348e)
 
 ---
 
