@@ -46,6 +46,16 @@ Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed323
 
 ---
 
+### 🎓 Certifications
+
+![CISCO Certificate](https://github.com/user-attachments/assets/02a88f2d-d097-4f45-b037-996d7d972eb8)
+![DigiSkills BI Certificate](https://github.com/user-attachments/assets/2e096103-c55a-4034-99e0-15d0b90fe5cb)
+![Google Data Analytics and Business Intelligence Professional Certificate](https://github.com/user-attachments/assets/ef8f9afb-7eaf-42e5-9688-476b3c4bf8a2)
+![Google Data Analytics Professional Certificate](https://github.com/user-attachments/assets/a6330ca3-e55e-492a-8b7b-e2674bbc149b)
+![HP Data Analytics Certificate](https://github.com/user-attachments/assets/5858adad-2402-4693-b723-31fd006560f0)
+
+---
+
 ### 📫 How to Reach Me
 
 - Email: **khurramnaveed4545@gmail.com**
