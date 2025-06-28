@@ -27,13 +27,9 @@ Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed323
 
 ### 📷 Dashboard Snapshots
 
-<p align="center">
-  <img src="https://your-image-link-1.com" width="400" alt="Sales Dashboard"/>
-  <img src="https://your-image-link-2.com" width="400" alt="Netflix SQL Analysis"/>
-  <img src="https://your-image-link-3.com" width="400" alt="Accident Analysis"/>
-</p>
+![ff](https://github.com/user-attachments/assets/38666a66-ff45-41cb-a65d-90ff784fd47e)
+![r](https://github.com/user-attachments/assets/99f6b5b2-d02e-4aff-9099-4a0a665cf73e)
 
-> _Tip: Upload your images to GitHub or an image hosting service and replace the links above._
 
 ---
 
