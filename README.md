@@ -1,24 +1,69 @@
 <h1 align="center">Hi 👋, I'm Khurram Naveed</h1>
-<h3 align="center">Khurram Naveed and I am a driven and passionate data analyst with a keen eye for detail and a deep understanding of data management and analysis.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khurramnaveed3233&label=Profile%20views&color=0e75b6&style=flat" alt="khurramnaveed3233" /> </p>
+<h3 align="center">Aspiring Data Analyst with hands-on experience in dashboarding, SQL, and transforming data into actionable insights.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khurramnaveed3233" alt="khurramnaveed3233" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Python and R**
+### 🔍 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Khurramnaveed3233?tab=repositories](https://github.com/Khurramnaveed3233?tab=repositories)
+- 🎓 I’m a data enthusiast with a strong foundation in **Power BI**, **SQL Server**, and **Advanced Excel**
+- 📊 I specialize in **data cleaning**, **wrangling**, and building **interactive dashboards** for real-world business problems
+- 🌱 Currently learning **Python** and **R** to enhance my analytics toolkit
+- 🚀 Actively seeking opportunities to contribute, learn, and grow in the field of data analytics
 
-- 💬 Ask me about **Data analysis using Power BI, SQL Server, and Excel Building interactive dashboards and automated reports Writing SQL queries for trend analysis, joins, aggregations, and CTEs Creating visualizations that turn data into actionable insights Cleaning and transforming large datasets using Power Query and Advanced Excel End-to-end data analytics projects: from raw data to business decisions Real-world use cases: Sales performance, Netflix content insights, Accident analysis Tools I use: Power BI, SQL Server, Excel, WordPress**
+---
 
-- 📫 How to reach me **khurramnaveed4545@gmail.com**
+### 💼 Projects & Dashboards
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khurram-naveed-0083851aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khurram-naveed-0083851aa/" height="30" width="40" /></a>
+Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed3233?tab=repositories)
+
+| Project Title | Tools Used | Description |
+|---------------|------------|-------------|
+| Financial Sales Dashboard | Power BI | Sales & SKU analysis, regional insights, and profit tracking |
+| Netflix Content Analysis | SQL Server | Genre, country, and release trend exploration using SQL queries |
+| US Road Accident Analysis | Excel | Pivot dashboards analyzing patterns by weather, time & location |
+
+---
+
+### 📷 Dashboard Snapshots
+
+<p align="center">
+  <img src="https://your-image-link-1.com" width="400" alt="Sales Dashboard"/>
+  <img src="https://your-image-link-2.com" width="400" alt="Netflix SQL Analysis"/>
+  <img src="https://your-image-link-3.com" width="400" alt="Accident Analysis"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+> _Tip: Upload your images to GitHub or an image hosting service and replace the links above._
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khurramnaveed3233&show_icons=true&locale=en&layout=compact" alt="khurramnaveed3233" /></p>
+---
+
+### 💬 Ask Me About
+
+- 🔍 Data analysis using **Power BI**, **SQL Server**, and **Excel**
+- 📈 Building interactive dashboards and reports
+- 🧠 Writing optimized SQL queries with **JOINS**, **CTEs**, **CASE**, and **window functions**
+- 🧹 Data transformation using **Power Query** and **Advanced Excel tools**
+- 📊 Creating data-driven solutions for use cases like sales performance, content trends, and risk analysis
+- 🧰 Tools: Power BI, SQL Server, Excel, WordPress
+
+---
+
+### 📫 How to Reach Me
+
+- Email: **khurramnaveed4545@gmail.com**
+- LinkedIn: [Khurram Naveed](https://www.linkedin.com/in/khurram-naveed-0083851aa/)
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/></a>
+  <a href="https://wordpress.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="40" height="40"/></a>
+</p>
+
+---
+
+> ✅ Let’s connect and turn raw data into real impact!
