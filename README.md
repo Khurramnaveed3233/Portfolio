@@ -26,8 +26,14 @@ Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed323
 ![Global terrorism](https://github.com/user-attachments/assets/59746cda-0907-4536-96c5-369982fd3b80)
 ![x mart sales dashboard](https://github.com/user-attachments/assets/3a103243-201e-40ec-a6c6-398b34aa4a22)
 ![I-POINT PHONE ACCESSORY SALES PERFORMANCE DASHBOARD](https://github.com/user-attachments/assets/ef3ea81b-2b11-4e24-a6e4-e397edf1348e)
+![HR analytics dashboard](https://github.com/user-attachments/assets/75ecebb2-be14-4424-80fd-1346da1dbfe3)
+![HR Attrition Dashboard](https://github.com/user-attachments/assets/66c8133e-c7ee-4608-b9f1-d43fe925d262)
+![Electronic sales](https://github.com/user-attachments/assets/e5c928e5-0fb6-4ce7-b15a-2be4b0a45ab8)
+![ECOMMERCE SALES ANALYSIS](https://github.com/user-attachments/assets/24a291a1-6db4-41b8-8a8d-73bd62fef2cc)
+![Data Professionals Survey Breakdown](https://github.com/user-attachments/assets/8095053d-91ef-42ef-bf9d-47586f778d7c)
+![Churn Analysis](https://github.com/user-attachments/assets/0c9861f4-d975-42fe-81d9-31206faceebc)
 
----
+--- 
 
 ### 💬 Ask Me About
 
