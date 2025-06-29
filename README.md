@@ -81,7 +81,7 @@ Sales trends to better inform future campaigns.
 
 A valuable tool to refine pricing, product, and operational strategies for greater profitability.
 
-### 
+---
 
 ![r](https://github.com/user-attachments/assets/99f6b5b2-d02e-4aff-9099-4a0a665cf73e)
 ![Global terrorism](https://github.com/user-attachments/assets/59746cda-0907-4536-96c5-369982fd3b80)
