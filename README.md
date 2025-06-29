@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Khurram Naveed</h1>
 
-<h3 align="center">Aspiring Data Analyst with hands-on experience in dashboarding, SQL, and transforming data into actionable insights.</h3>
+<h3 align="center">Passionate Data Analyst | Skilled in SQL, Data Visualization & Turning Raw Data into Actionable Insights</h3>
+
 
 ---
 
 ### 🔍 About Me
 
-- 🎓 I’m a data enthusiast with a strong foundation in **Power BI**, **SQL Server**, and **Advanced Excel**
-- 📊 I specialize in **data cleaning**, **wrangling**, and building **interactive dashboards** for real-world business problems
-- 🌱 Currently learning **Python** and **R** to enhance my analytics toolkit
-- 🚀 Actively seeking opportunities to contribute, learn, and grow in the field of data analytics
+- I’m a data enthusiast with a strong foundation in **Power BI**, **SQL Server**, and **Advanced Excel**
+- I specialize in **data cleaning**, **wrangling**, and building **interactive dashboards** for real-world business problems
+- Currently learning **Python** and **R** to enhance my analytics toolkit
+- Actively seeking opportunities to contribute, learn, and grow in the field of data analytics
 
 ---
 
