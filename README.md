@@ -77,9 +77,7 @@ Practical understanding of data types, storytelling with data, and analytics for
 
 Advanced concepts in BI, dashboards, KPIs, and data modeling with tools like Looker, SQL, and BigQuery.
 
-[Google Data Analytics and Business Intelligence Professional Certificate](https://github.com/user-attachments/assets/ef8f9afb-7eaf-42e5-9688-476b3c4bf8a2)
-
----
+![Google Data Analytics and Business Intelligence Professional Certificate](https://github.com/user-attachments/assets/6cf1165a-9bea-4b5e-bf2c-e95f04c1edd5)
 
 ### 📫 How to Reach Me
 
