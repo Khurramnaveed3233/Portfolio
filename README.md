@@ -53,11 +53,11 @@ Each of the dashboards showcased below was built to address real-world business 
 ### 💬 Ask Me About
 
 - 🔍 Data analysis using **Power BI**, **SQL Server**, and **Excel**
-- 📈 Building interactive dashboards and reports
-- 🧠 Writing optimized SQL queries with **JOINS**, **CTEs**, **CASE**, and **window functions**
-- 🧹 Data transformation using **Power Query** and **Advanced Excel tools**
-- 📊 Creating data-driven solutions for use cases like sales performance, content trends, and risk analysis
-- 🧰 Tools: Power BI, SQL Server, Excel, WordPress
+- Building interactive dashboards and reports
+- Writing optimized SQL queries with **JOINS**, **CTEs**, **CASE**, and **window functions**
+- Data transformation using **Power Query** and **Advanced Excel tools**
+- Creating data-driven solutions for use cases like sales performance, content trends, and risk analysis
+- Tools: Power BI, SQL Server, Excel, WordPress
 
 ---
 
