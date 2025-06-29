@@ -36,55 +36,49 @@ Welcome everyone! This dashboard provides a comprehensive summary of our financi
 - **Total Units Sold: 1.1 million units**
 - **High sales volume, but profit margins need improvement — a potential area for optimization**
 
-
-
-
-
-
-  
-
 🔹 2. Sales by Segment:
-Highest revenue generated from Consumer and Corporate segments.
 
-Small Business and Home Office segments are underperforming.
+- **Highest revenue generated from Consumer and Corporate segments.**
 
-📌 Opportunity to invest in underperforming segments or revise strategy.
+- **Small Business and Home Office segments are underperforming.**
+
+- **Opportunity to invest in underperforming segments or revise strategy.**
 
 🔹 3. Units Sold by Product:
-Products ranked by quantity sold (left-side bar chart).
 
-⚠️ High volume ≠ High profit — highlights need to analyze profit per product.
+- **Products ranked by quantity sold (left-side bar chart).**
+
+- **High volume ≠ High profit — highlights need to analyze profit per product.**
 
 🔹 4. Discounts by Product (Pie Chart):
-Largest discounts given on "Paseo" (28.3%).
 
-While it boosts sales, we must monitor its impact on profit margins.
+- **Largest discounts given on "Paseo" (28.3%).**
+- **While it boosts sales, we must monitor its impact on profit margins.**
 
 🔹 5. Profit by Product:
-Despite discounts, "Paseo" remains most profitable — current strategy seems effective.
 
-Other contributors include "Montana" and "Velo" with moderate profits.
+- **Despite discounts, "Paseo" remains most profitable — current strategy seems effective.**
+
+- **Other contributors include "Montana" and "Velo" with moderate profits.**
 
 🔹 6. Sales by Geography (Map):
-Majority of units sold in North America and Europe.
 
-📍 Use this to focus marketing, supply chain, and sales strategies geographically.
+- **Majority of units sold in North America and Europe.**
+- **Use this to focus marketing, supply chain, and sales strategies geographically.**
 
 🔹 7. Trends Over Time (Line Chart):
-Sales peaked earlier in the year, then tapered.
 
-🔄 May indicate seasonal buying patterns or effects of marketing campaigns.
+- **Sales peaked earlier in the year, then tapered.**
+- **May indicate seasonal buying patterns or effects of marketing campaigns.**
 
 🧠 Final Insight:
+
 This dashboard delivers actionable insights on:
 
-Top-performing segments, products, and regions.
-
-Discounting strategies and their effect on profits.
-
-Sales trends to better inform future campaigns.
-
-A valuable tool to refine pricing, product, and operational strategies for greater profitability.
+- **Top-performing segments, products, and regions.**
+- **Discounting strategies and their effect on profits.**
+- **Sales trends to better inform future campaigns.**
+- **A valuable tool to refine pricing, product, and operational strategies for greater profitability.**
 
 ---
 
