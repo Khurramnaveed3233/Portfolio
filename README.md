@@ -47,8 +47,11 @@ Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed323
 ---
 
 ### 🎓 Certifications
+
 📚 CISCO Data Analytics Essentials
+
 Fundamentals of the data analysis lifecycle: from collection and cleaning to visualization and interpretation
+
 ![CISCO Certificate](https://github.com/user-attachments/assets/02a88f2d-d097-4f45-b037-996d7d972eb8)
 
 
@@ -62,7 +65,9 @@ Comprehensive training in data cleaning, analysis, visualization, and data-drive
 ![Google Data Analytics Professional Certificate](https://github.com/user-attachments/assets/a6330ca3-e55e-492a-8b7b-e2674bbc149b)
 
 Diploma in Data Analytics – HP Life Foundation
+
 Practical understanding of data types, storytelling with data, and analytics for small businesses.
+
 ![HP Data Analytics Certificate](https://github.com/user-attachments/assets/5858adad-2402-4693-b723-31fd006560f0)
 
 ---
