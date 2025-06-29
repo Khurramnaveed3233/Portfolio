@@ -21,7 +21,7 @@ Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed323
 
 ### 📷 Dashboard Snapshots
 
-# Financial Sales Analysis Report – Dashboard Insights--
+# Financial Sales Analysis Report – Dashboard Insights
 
 Welcome everyone! This dashboard provides a comprehensive summary of our financial sales performance across different years, segments, countries, and products. I’ve built this report in Power BI to help decision-makers like you easily understand key trends and business insights at a glance — without needing to dive into raw data.
 
