@@ -23,6 +23,9 @@ Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed323
 
 ### 📷 Dashboard Snapshots
 
+Each of the dashboards showcased below was built to address real-world business challenges — demonstrating my skills in data analysis, visualization, and delivering insights that drive strategic decisions.
+
+
 ![ff](https://github.com/user-attachments/assets/38666a66-ff45-41cb-a65d-90ff784fd47e)
 
 ![r](https://github.com/user-attachments/assets/99f6b5b2-d02e-4aff-9099-4a0a665cf73e)
