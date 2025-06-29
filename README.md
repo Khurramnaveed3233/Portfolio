@@ -9,8 +9,9 @@
 
 - I’m a data enthusiast with a strong foundation in **Power BI**, **SQL Server**, and **Advanced Excel**
 - I specialize in **data cleaning**, **wrangling**, and building **interactive dashboards** for real-world business problems
-- Currently learning **Python** and **R** to enhance my analytics toolkit
-- Actively seeking opportunities to contribute, learn, and grow in the field of data analytics
+- Currently expanding my skillset by learning Python and R to deepen my analytical capabilities
+- Eager to contribute, grow, and make meaningful impact in the field of data analytics
+
 
 ---
 
