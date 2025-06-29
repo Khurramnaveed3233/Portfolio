@@ -28,15 +28,12 @@ Welcome everyone! This dashboard provides a comprehensive summary of our financi
 🧾 Key Takeaways from the Dashboard:
 
 🔹 1. Overall Performance (Top Row KPIs):
-Gross Sales: $128 million.
 
-Total Sales (After Discounts): $119 million → Indicates $9M given in discounts.
-
-Total Profit: $17 million.
-
-Total Units Sold: 1.1 million units.
-
-✅ High sales volume, but profit margins need improvement — a potential area for optimization.
+--- Gross Sales: $128 million
+--- Total Sales (After Discounts): $119 million → $9M given in discounts
+--- Total Profit: $17 million
+--- Total Units Sold: 1.1 million units
+--- ✅ High sales volume, but profit margins need improvement — a potential area for optimization
 
 🔹 2. Sales by Segment:
 Highest revenue generated from Consumer and Corporate segments.
