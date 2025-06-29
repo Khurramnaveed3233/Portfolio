@@ -54,21 +54,30 @@ Fundamentals of the data analysis lifecycle: from collection and cleaning to vis
 
 ![CISCO Certificate](https://github.com/user-attachments/assets/02a88f2d-d097-4f45-b037-996d7d972eb8)
 
+💼 Business Intelligence – DigiSkills.pk
+
+Gained hands-on experience in BI concepts, data warehousing, dashboards, and decision-support systems using Power BI and Excel.
 
 ![DigiSkills BI Certificate](https://github.com/user-attachments/assets/2e096103-c55a-4034-99e0-15d0b90fe5cb)
 
+
 🟢 Google Data Analytics Professional Certificate
 
-Comprehensive training in data cleaning, analysis, visualization, and data-driven decision-making using SQL, spreadsheets, and Tableau.[Google Data Analytics and Business Intelligence Professional Certificate](https://github.com/user-attachments/assets/ef8f9afb-7eaf-42e5-9688-476b3c4bf8a2)
-
+Comprehensive training in data cleaning, analysis, visualization, and data-driven decision-making using SQL, spreadsheets, and Tableau.
 
 ![Google Data Analytics Professional Certificate](https://github.com/user-attachments/assets/a6330ca3-e55e-492a-8b7b-e2674bbc149b)
 
-Diploma in Data Analytics – HP Life Foundation
+📑 Diploma in Data Analytics – HP Life Foundation
 
 Practical understanding of data types, storytelling with data, and analytics for small businesses.
 
 ![HP Data Analytics Certificate](https://github.com/user-attachments/assets/5858adad-2402-4693-b723-31fd006560f0)
+
+📊 Google Business Intelligence & Analytics Certificate
+
+Advanced concepts in BI, dashboards, KPIs, and data modeling with tools like Looker, SQL, and BigQuery.
+
+[Google Data Analytics and Business Intelligence Professional Certificate](https://github.com/user-attachments/assets/ef8f9afb-7eaf-42e5-9688-476b3c4bf8a2)
 
 ---
 
