@@ -27,47 +27,59 @@ Welcome everyone! This dashboard provides a comprehensive summary of our financi
 
 🧾 Key Takeaways from the Dashboard:
 
-1. Overall Performance (Top Row KPIs):
-Gross Sales: We achieved $128 million in gross sales.
+🔹 1. Overall Performance (Top Row KPIs):
+Gross Sales: $128 million.
 
-Total Sales (After Discounts): $119 million — this means we gave about $9M in discounts overall.
+Total Sales (After Discounts): $119 million → Indicates $9M given in discounts.
 
 Total Profit: $17 million.
 
 Total Units Sold: 1.1 million units.
 
-This shows we are selling high volume, but our profit margins could improve — something worth exploring further.
+✅ High sales volume, but profit margins need improvement — a potential area for optimization.
 
-2. Sales by Segment:
-Most of our revenue comes from the Consumer and Corporate segments.
+🔹 2. Sales by Segment:
+Highest revenue generated from Consumer and Corporate segments.
 
-Small Business and Home Office segments are underperforming, which could be areas for growth or review.
+Small Business and Home Office segments are underperforming.
 
-3. Units Sold by Product:
-The top-selling product is shown on the left — these are ranked by quantity sold.
+📌 Opportunity to invest in underperforming segments or revise strategy.
 
-However, high volume does not always mean high profit, which is why the profit charts are equally important.
+🔹 3. Units Sold by Product:
+Products ranked by quantity sold (left-side bar chart).
 
-4. Discounts by Product (Pie Chart):
-We gave the highest discounts on "Paseo" — about 28.3% of total discounting.
+⚠️ High volume ≠ High profit — highlights need to analyze profit per product.
 
-This may have helped boost sales, but we need to ensure it's not hurting profits too much.
+🔹 4. Discounts by Product (Pie Chart):
+Largest discounts given on "Paseo" (28.3%).
 
-5. Profit by Product:
-Even after discounts, "Paseo" still leads in profit, which is great — our promotion strategy is working here.
+While it boosts sales, we must monitor its impact on profit margins.
 
-Other products like "Montana" and "Velo" are contributing moderately.
+🔹 5. Profit by Product:
+Despite discounts, "Paseo" remains most profitable — current strategy seems effective.
 
-6. Sales by Geography (Map):
-The majority of our units sold are coming from North America and Europe.
+Other contributors include "Montana" and "Velo" with moderate profits.
 
-This could guide marketing and logistics focus.
+🔹 6. Sales by Geography (Map):
+Majority of units sold in North America and Europe.
 
-7. Trends Over Time (Line Charts):
-Sales peaked early in the year and then tapered — may align with seasonal trends or promotions.
+📍 Use this to focus marketing, supply chain, and sales strategies geographically.
+
+🔹 7. Trends Over Time (Line Chart):
+Sales peaked earlier in the year, then tapered.
+
+🔄 May indicate seasonal buying patterns or effects of marketing campaigns.
 
 🧠 Final Insight:
-This dashboard helps us identify our best-performing segments, products, and regions, as well as understand where we are giving too much discount or losing potential profit. With these insights, we can adjust pricing, marketing, and product strategy to maximize revenue and profitability.
+This dashboard delivers actionable insights on:
+
+Top-performing segments, products, and regions.
+
+Discounting strategies and their effect on profits.
+
+Sales trends to better inform future campaigns.
+
+A valuable tool to refine pricing, product, and operational strategies for greater profitability.
 
 ![r](https://github.com/user-attachments/assets/99f6b5b2-d02e-4aff-9099-4a0a665cf73e)
 ![Global terrorism](https://github.com/user-attachments/assets/59746cda-0907-4536-96c5-369982fd3b80)
