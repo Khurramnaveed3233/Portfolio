@@ -21,7 +21,54 @@ Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed323
 
 ### 📷 Dashboard Snapshots
 
+Welcome everyone! This dashboard provides a comprehensive summary of our financial sales performance across different years, segments, countries, and products. I’ve built this report in Power BI to help decision-makers like you easily understand key trends and business insights at a glance — without needing to dive into raw data.
+
 ![ff](https://github.com/user-attachments/assets/38666a66-ff45-41cb-a65d-90ff784fd47e)
+
+🧾 Key Takeaways from the Dashboard:
+
+1. Overall Performance (Top Row KPIs):
+Gross Sales: We achieved $128 million in gross sales.
+
+Total Sales (After Discounts): $119 million — this means we gave about $9M in discounts overall.
+
+Total Profit: $17 million.
+
+Total Units Sold: 1.1 million units.
+
+This shows we are selling high volume, but our profit margins could improve — something worth exploring further.
+
+2. Sales by Segment:
+Most of our revenue comes from the Consumer and Corporate segments.
+
+Small Business and Home Office segments are underperforming, which could be areas for growth or review.
+
+3. Units Sold by Product:
+The top-selling product is shown on the left — these are ranked by quantity sold.
+
+However, high volume does not always mean high profit, which is why the profit charts are equally important.
+
+4. Discounts by Product (Pie Chart):
+We gave the highest discounts on "Paseo" — about 28.3% of total discounting.
+
+This may have helped boost sales, but we need to ensure it's not hurting profits too much.
+
+5. Profit by Product:
+Even after discounts, "Paseo" still leads in profit, which is great — our promotion strategy is working here.
+
+Other products like "Montana" and "Velo" are contributing moderately.
+
+6. Sales by Geography (Map):
+The majority of our units sold are coming from North America and Europe.
+
+This could guide marketing and logistics focus.
+
+7. Trends Over Time (Line Charts):
+Sales peaked early in the year and then tapered — may align with seasonal trends or promotions.
+
+🧠 Final Insight:
+This dashboard helps us identify our best-performing segments, products, and regions, as well as understand where we are giving too much discount or losing potential profit. With these insights, we can adjust pricing, marketing, and product strategy to maximize revenue and profitability.
+
 ![r](https://github.com/user-attachments/assets/99f6b5b2-d02e-4aff-9099-4a0a665cf73e)
 ![Global terrorism](https://github.com/user-attachments/assets/59746cda-0907-4536-96c5-369982fd3b80)
 ![x mart sales dashboard](https://github.com/user-attachments/assets/3a103243-201e-40ec-a6c6-398b34aa4a22)
