@@ -26,6 +26,7 @@ Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed323
 
 Each of the dashboards showcased below was built to address real-world business challenges — demonstrating my skills in data analysis, visualization, and delivering insights that drive strategic decisions.
 
+![TrendMart-Sales-Analysis-Dashboard-in-PowerBI](https://github.com/user-attachments/assets/cc223c2f-dac3-4612-96d9-8d365abd53c5)
 
 ![ff](https://github.com/user-attachments/assets/38666a66-ff45-41cb-a65d-90ff784fd47e)
 
