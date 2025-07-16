@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khurram Naveed</h1>
 
-<h3 align="center">📊 Passionate Data Analyst | Expert in SQL, Power BI & Transforming Raw Data into Meaningful Business Solutions</h3>
+<h3 align="center"> Passionate Data Analyst | Expert in SQL, Power BI & Transforming Raw Data into Meaningful Business Solutions</h3>
 
 ---
 
