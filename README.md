@@ -66,11 +66,13 @@ Each of the dashboards showcased below was built to address real-world business 
 
 ### 🎓 Certifications
 
-📚 CISCO Data Analytics Essentials
+## CISCO Data Analytics Essentials
 
 Fundamentals of the data analysis lifecycle: from collection and cleaning to visualization and interpretation
 
 ![CISCO Certificate](https://github.com/user-attachments/assets/02a88f2d-d097-4f45-b037-996d7d972eb8)
+
+--- 
 
 💼 Business Intelligence – DigiSkills.pk
 
