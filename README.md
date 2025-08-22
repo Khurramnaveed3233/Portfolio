@@ -97,6 +97,12 @@ Advanced concepts in BI, dashboards, KPIs, and data modeling with tools like Loo
 
 ![Google Data Analytics and Business Intelligence Professional Certificate](https://github.com/user-attachments/assets/6cf1165a-9bea-4b5e-bf2c-e95f04c1edd5)
 
+🎓 Certified in **Introduction to SQL** by TAFE NSW and Institute of Applied Technology Digital — covering SQL fundamentals, data manipulation, views, indexes, transactions, and business intelligence workflows.
+
+[IAT_Digital_Microskill-June2025.pdf](https://github.com/user-attachments/files/21933975/IAT_Digital_Microskill-June2025.pdf)
+
+<img width="512" height="512" alt="Introduction_to_SQL" src="https://github.com/user-attachments/assets/319d04ad-6120-4491-8157-9126d3fd9dfa" />
+
 ### 📫 How to Reach Me
 
 - Email: **khurramnaveed4545@gmail.com**
