@@ -99,7 +99,7 @@ Advanced concepts in BI, dashboards, KPIs, and data modeling with tools like Loo
 
 🎓 Certified in **Introduction to SQL** by TAFE NSW and Institute of Applied Technology Digital — covering SQL fundamentals, data manipulation, views, indexes, transactions, and business intelligence workflows.
 
-[IAT_Digital_Microskill-June2025.pdf](https://github.com/user-attachments/files/21933975/IAT_Digital_Microskill-June2025.pdf)
+<img width="421" height="579" alt="NSW SQL Certificate" src="https://github.com/user-attachments/assets/f27571dd-8961-4f25-8411-09a4f3529379" />
 
 <img width="512" height="512" alt="Introduction_to_SQL" src="https://github.com/user-attachments/assets/319d04ad-6120-4491-8157-9126d3fd9dfa" />
 
