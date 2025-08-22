@@ -102,7 +102,7 @@ Advanced concepts in BI, dashboards, KPIs, and data modeling with tools like Loo
 
 ![Google Data Analytics and Business Intelligence Professional Certificate](https://github.com/user-attachments/assets/6cf1165a-9bea-4b5e-bf2c-e95f04c1edd5)
 
-**Certified in **Introduction to SQL** by TAFE NSW and Institute of Applied Technology Digital — covering SQL fundamentals, data manipulation, views, indexes, transactions, and business intelligence workflows.**
+## **Certified in **Introduction to SQL** by TAFE NSW and Institute of Applied Technology**
 
 <img width="421" height="579" alt="NSW SQL Certificate" src="https://github.com/user-attachments/assets/f27571dd-8961-4f25-8411-09a4f3529379" />
 
