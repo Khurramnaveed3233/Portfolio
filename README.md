@@ -74,7 +74,7 @@ Fundamentals of the data analysis lifecycle: from collection and cleaning to vis
 
 --- 
 
-##**Business Intelligence – DigiSkills.pk**
+## **Business Intelligence – DigiSkills.pk**
 
 Gained hands-on experience in BI concepts, data warehousing, dashboards, and decision-support systems using Power BI and Excel.
 
@@ -82,7 +82,7 @@ Gained hands-on experience in BI concepts, data warehousing, dashboards, and dec
 
 --- 
 
-##**Google Data Analytics Professional Certificate**
+## **Google Data Analytics Professional Certificate**
 
 Comprehensive training in data cleaning, analysis, visualization, and data-driven decision-making using SQL, spreadsheets, and Tableau.
 
@@ -90,13 +90,13 @@ Comprehensive training in data cleaning, analysis, visualization, and data-drive
 
 --- 
 
-##**Diploma in Data Analytics – HP Life Foundation**
+## **Diploma in Data Analytics – HP Life Foundation**
 
 Practical understanding of data types, storytelling with data, and analytics for small businesses.
 
 ![HP Data Analytics Certificate](https://github.com/user-attachments/assets/5858adad-2402-4693-b723-31fd006560f0)
 
-##**Google Business Intelligence & Analytics Certificate**
+## **Google Business Intelligence & Analytics Certificate**
 
 Advanced concepts in BI, dashboards, KPIs, and data modeling with tools like Looker, SQL, and BigQuery.
 
@@ -108,7 +108,7 @@ Advanced concepts in BI, dashboards, KPIs, and data modeling with tools like Loo
 
 <img width="512" height="512" alt="Introduction_to_SQL" src="https://github.com/user-attachments/assets/319d04ad-6120-4491-8157-9126d3fd9dfa" />
 
-### 📫 How to Reach Me
+###  How to Reach Me
 
 - Email: **khurramnaveed4545@gmail.com**
 - LinkedIn: [Khurram Naveed](https://www.linkedin.com/in/khurram-naveed-0083851aa/)
