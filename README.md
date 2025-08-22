@@ -66,7 +66,7 @@ Each of the dashboards showcased below was built to address real-world business 
 
 ### 🎓 Certifications
 
-## CISCO Data Analytics Essentials
+**CISCO Data Analytics Essentials**
 
 Fundamentals of the data analysis lifecycle: from collection and cleaning to visualization and interpretation
 
@@ -74,20 +74,23 @@ Fundamentals of the data analysis lifecycle: from collection and cleaning to vis
 
 --- 
 
-💼 Business Intelligence – DigiSkills.pk
+**Business Intelligence – DigiSkills.pk**
 
 Gained hands-on experience in BI concepts, data warehousing, dashboards, and decision-support systems using Power BI and Excel.
 
 ![DigiSkills BI Certificate](https://github.com/user-attachments/assets/2e096103-c55a-4034-99e0-15d0b90fe5cb)
 
+--- 
 
-🟢 Google Data Analytics Professional Certificate
+**Google Data Analytics Professional Certificate**
 
 Comprehensive training in data cleaning, analysis, visualization, and data-driven decision-making using SQL, spreadsheets, and Tableau.
 
 ![Google Data Analytics Professional Certificate](https://github.com/user-attachments/assets/a6330ca3-e55e-492a-8b7b-e2674bbc149b)
 
-📑 Diploma in Data Analytics – HP Life Foundation
+--- 
+
+**Diploma in Data Analytics – HP Life Foundation**
 
 Practical understanding of data types, storytelling with data, and analytics for small businesses.
 
