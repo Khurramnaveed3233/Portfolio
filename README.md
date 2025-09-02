@@ -27,7 +27,6 @@ Each of the dashboards showcased below was built to address real-world business 
 
 <img width="1536" height="1024" alt="Dashboard image" src="https://github.com/user-attachments/assets/3af22063-7301-4adb-b4ce-d0f07d34db93" />
 
-
 ![TrendMart-Sales-Analysis-Dashboard-in-PowerBI](https://github.com/user-attachments/assets/cc223c2f-dac3-4612-96d9-8d365abd53c5)
 
 ![ff](https://github.com/user-attachments/assets/38666a66-ff45-41cb-a65d-90ff784fd47e)
@@ -41,7 +40,11 @@ Each of the dashboards showcased below was built to address real-world business 
 ![I-POINT PHONE ACCESSORY SALES PERFORMANCE DASHBOARD](https://github.com/user-attachments/assets/ef3ea81b-2b11-4e24-a6e4-e397edf1348e)
 ![HR analytics dashboard](https://github.com/user-attachments/assets/75ecebb2-be14-4424-80fd-1346da1dbfe3)
 
-![HR Attrition Dashboard](https://github.com/user-attachments/assets/66c8133e-c7ee-4608-b9f1-d43fe925d262)
+![3](https://github.com/user-attachments/assets/5dd9f93b-353d-4bb7-bc05-5562186817c0)
+
+![2](https://github.com/user-attachments/assets/0d968e63-baea-4fe1-98fa-5486192b2cb3)
+
+![1](https://github.com/user-attachments/assets/353faf08-5428-4aa0-9353-9b8fb975d191)
 
 ![Electronic sales](https://github.com/user-attachments/assets/e5c928e5-0fb6-4ce7-b15a-2be4b0a45ab8)
 
