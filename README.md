@@ -138,6 +138,15 @@ Advanced concepts in BI, dashboards, KPIs, and data modeling with tools like Loo
 
 <img width="512" height="512" alt="Introduction_to_SQL" src="https://github.com/user-attachments/assets/319d04ad-6120-4491-8157-9126d3fd9dfa" />
 
+## **Google AI Essential**
+
+<img width="872" height="675" alt="Google AI Essentials Professional Certificate" src="https://github.com/user-attachments/assets/1cb6f6cf-dabd-4bdd-b853-1358d24261ab" />
+
+## **C++ Essentials**
+
+![C++ Essentials](https://github.com/user-attachments/assets/85118789-2b50-4c38-b3aa-0c7c1632b3c7)
+
+
 ###  How to Reach Me
 
 - Email: **khurramnaveed4545@gmail.com**
