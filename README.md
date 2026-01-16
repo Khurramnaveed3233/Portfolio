@@ -1,15 +1,40 @@
 <h1 align="center">Hi 👋, I'm Khurram Naveed</h1>
 
-<h3 align="center"> Passionate Data Analyst | Expert in SQL, Power BI & Transforming Raw Data into Meaningful Business Solutions</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Power+BI+%7C+Excel+Analytics;Turning+Data+into+Actionable+Insights;Open+to+Remote+Data+Analyst+Roles" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khurram-naveed-0083851aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Khurramnaveed3233/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:khurramnaveed4545@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-### 🔍 About Me
+###  About Me
 
-- I’m a data enthusiast with a strong foundation in **Power BI**, **SQL Server**, and **Advanced Excel**
-- I specialize in **data cleaning**, **wrangling**, and building **interactive dashboards** for real-world business problems
-- Currently expanding my skillset by learning Python and R to deepen my analytical capabilities
-- Eager to contribute, grow, and make meaningful impact in the field of data analytics
+I am Khurram Naveed, a passionate Data Analyst and Business Intelligence Specialist with a proven track record in creating compelling dashboards and insightful visualizations using Excel, Power BI, and SQL. 
+
+Over the years, I have built and delivered projects ranging from sales performance and HR analysis dashboards to healthcare data insights and global terrorism analysis, leveraging data to drive informed business decisions.
+
+During my role at TCS Courier Service, I demonstrated my analytical and problem-solving skills by managing and tracking over 1,000 daily shipments, ensuring timely deliveries, and implementing a retail software system that boosted efficiency by 20%. 
+
+Additionally, I took ownership of department expenses, uncovering cost-saving opportunities and achieving a 15% reduction in daily costs.
+
+My technical expertise includes advanced Excel functions like pivot tables, VLOOKUP, and INDEX/MATCH, as well as proficiency in DAX for complex calculations and data modeling. I am also adept at using Power Query for data cleaning, transformation, and integration from various sources, ensuring data quality and reliability for comprehensive BI reports.
+
+I am certified in Google Data Analytics, Data Analytics & BI from Digiskills. pk, and having completed a Virtual Experience Program with J.P. Morgan Chase & Co., I have the skills to handle data complexities and translate them into actionable insights for stakeholders.
+
+I hold a Bachelor's in Arts from Bahauddin Zikrya University, which provided me with a strong foundation in analytical thinking. I am now actively seeking opportunities to apply my skills in data analysis and visualization to support organizations in making impactful data-driven decisions.
+
+Open to learning and collaborating on emerging technologies, real-world projects, and internship opportunities in data analytics, and business intelligence . Let’s connect and grow together.
 
 
 ---
