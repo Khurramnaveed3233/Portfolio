@@ -39,13 +39,13 @@ Open to learning and collaborating on emerging technologies, real-world projects
 
 ---
 
-### 💼 Projects & Dashboards
+### Projects & Repositories
 
 Explore my projects on [GitHub Repositories](https://github.com/Khurramnaveed3233?tab=repositories)
 
 ---
 
-### 📷 Dashboard Snapshots
+### Dashboard Snapshots
 
 
 Each of the dashboards showcased below was built to address real-world business challenges — demonstrating my skills in data analysis, visualization, and delivering insights that drive strategic decisions.
