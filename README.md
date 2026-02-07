@@ -20,21 +20,23 @@
 
 ###  About Me
 
-I am Khurram Naveed, a passionate Data Analyst and Business Intelligence Specialist with a proven track record in creating compelling dashboards and insightful visualizations using Excel, Power BI, and SQL. 
+About
 
-Over the years, I have built and delivered projects ranging from sales performance and HR analysis dashboards to healthcare data insights and global terrorism analysis, leveraging data to drive informed business decisions.
+I am Khurram Naveed, a data analyst and business intelligence specialist focused on turning raw data into clear, decision ready insights. You get dashboards and reports which answer business questions, not noise.
 
-During my role at TCS Courier Service, I demonstrated my analytical and problem-solving skills by managing and tracking over 1,000 daily shipments, ensuring timely deliveries, and implementing a retail software system that boosted efficiency by 20%. 
+I work with Excel, Power BI, SQL, DAX, and Power Query. You benefit from clean data models, accurate calculations, and visuals which help leaders act fast. I have delivered sales, HR, healthcare, and risk analysis dashboards with measurable business value.
 
-Additionally, I took ownership of department expenses, uncovering cost-saving opportunities and achieving a 15% reduction in daily costs.
+At TCS Courier Service, I handled operational data for over 1,000 daily shipments. You gain from my experience in tracking performance, fixing process gaps, and improving systems. I helped implement retail software which raised efficiency by 20 percent and reduced daily costs by 15 percent through expense analysis.
 
-My technical expertise includes advanced Excel functions like pivot tables, VLOOKUP, and INDEX/MATCH, as well as proficiency in DAX for complex calculations and data modeling. I am also adept at using Power Query for data cleaning, transformation, and integration from various sources, ensuring data quality and reliability for comprehensive BI reports.
+What I bring to the table:
+• Strong data cleaning, modeling, and visualization skills
+• Business focused dashboards for performance tracking
+• Proven cost reduction and process improvement results
+• Clear communication of insights for non technical stakeholders
 
-I am certified in Google Data Analytics, Data Analytics & BI from Digiskills. pk, and having completed a Virtual Experience Program with J.P. Morgan Chase & Co., I have the skills to handle data complexities and translate them into actionable insights for stakeholders.
+I hold certifications in Google Data Analytics and Data Analytics and BI from Digiskills.pk, plus hands on experience from the J.P. Morgan virtual program. My background in arts strengthened my analytical thinking and problem solving approach.
 
-I hold a Bachelor's in Arts from Bahauddin Zikrya University, which provided me with a strong foundation in analytical thinking. I am now actively seeking opportunities to apply my skills in data analysis and visualization to support organizations in making impactful data-driven decisions.
-
-Open to learning and collaborating on emerging technologies, real-world projects, and internship opportunities in data analytics, and business intelligence . Let’s connect and grow together.
+You get a motivated analyst who learns fast, works with ownership, and focuses on impact. I am seeking roles, internships, and projects in data analytics and business intelligence where data drives better decisions.
 
 
 ---
