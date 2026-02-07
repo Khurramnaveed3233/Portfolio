@@ -20,8 +20,6 @@
 
 ###  About Me
 
-About
-
 I am Khurram Naveed, a data analyst and business intelligence specialist focused on turning raw data into clear, decision ready insights. You get dashboards and reports which answer business questions, not noise.
 
 I work with Excel, Power BI, SQL, DAX, and Power Query. You benefit from clean data models, accurate calculations, and visuals which help leaders act fast. I have delivered sales, HR, healthcare, and risk analysis dashboards with measurable business value.
